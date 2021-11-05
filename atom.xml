@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  <link href="http://heytang23.xyz/atom.xml" rel="self"/>
   
-  <link href="http://localhost:4000/"/>
+  <link href="http://heytang23.xyz/"/>
   <updated>2021-10-01T04:52:10.945Z</updated>
-  <id>http://localhost:4000/</id>
+  <id>http://heytang23.xyz/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>关于时间</title>
-    <link href="http://localhost:4000/2021/10/01/hello-world/"/>
-    <id>http://localhost:4000/2021/10/01/hello-world/</id>
+    <link href="http://heytang23.xyz/2021/10/01/hello-world/"/>
+    <id>http://heytang23.xyz/2021/10/01/hello-world/</id>
     <published>2021-10-01T04:34:44.730Z</published>
     <updated>2021-10-01T04:52:10.945Z</updated>
     
@@ -31,7 +31,7 @@
     
     
     
-    <category term="&lt;文章分类&gt;" scheme="http://localhost:4000/categories/%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB/"/>
+    <category term="&lt;文章分类&gt;" scheme="http://heytang23.xyz/categories/%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB/"/>
     
     
   </entry>
